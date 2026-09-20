@@ -1,5 +1,3 @@
-# global-wheat-head-detection-
-
 # Global Wheat Head Detection
 
 Détection automatique des épis de blé (*wheat heads*) à partir d'images de champs, avec une évaluation de la capacité de généralisation inter-pays (Leave-One-Domain-Out) sur le dataset Global Wheat Head Detection (GWHD).
